@@ -1,0 +1,127 @@
+A planned economy is a type of economic system where investment, production and the allocation of capital goods take place according to economy-wide economic plans and production plans. A planned economy may use centralized, decentralized, participatory or Soviet-type forms of economic planning. The level of centralization or decentralization in decision-making and participation depends on the specific type of planning mechanism employed.Socialist states based on the Soviet model have used central planning, although a minority such as the Socialist Federal Republic of Yugoslavia have adopted some degree of market socialism. Market abolitionist socialism replaces factor markets with direct calculation as the means to coordinate the activities of the various socially-owned economic enterprises that make up the economy. More recent approaches to socialist planning and allocation have come from some economists and computer scientists proposing planning mechanisms based on advances in computer science and information technology.Planned economies contrast with unplanned economies, specifically market economies, where autonomous firms operating in markets make decisions about production, distribution, pricing and investment. Market economies that use indicative planning are variously referred to as planned market economies, mixed economies and mixed market economies. A command economy follows an administrative-command system and uses Soviet-type economic planning which was characteristic of the former Soviet Union and Eastern Bloc before most of these countries converted to market economies. This highlights the central role of hierarchical administration and public ownership of production in guiding the allocation of resources in these economic systems.In command economies, important allocation decisions are made by government authorities and are imposed by law. This goes against the Marxist understanding of conscious planning. Decentralized planning has been proposed as a basis for socialism and has been variously advocated by anarchists, council communists, libertarian Marxists and other democratic and libertarian socialists who advocate a non-market form of socialism, in total rejection of the type of planning adopted in the economy of the Soviet Union.
+
+
+== Overview ==
+In the Hellenistic and post-Hellenistic world, "compulsory state planning was the most characteristic trade condition for the Egyptian countryside, for Hellenistic India, and to a lesser degree the more barbaric regions of the Seleucid, the Pergamenian, the southern Arabian, and the Parthian empires". Scholars have argued that the Incan economy was a flexible type of command economy, centered around the movement and utilization of labor instead of goods. One view of mercantilism sees it as a planned economy.The Soviet-style planned economy started with war communism in 1918 and ended in 1921, when the Soviet government founded Gosplan in 1921. However, the period of the New Economic Policy intervened before regular five-year plans started in 1928. Dirigisme, or government direction of the economy through non-coercive means, was practiced in France and in Great Britain after World War II. The Swedish government planned public-housing models in a similar fashion as urban planning in a project called Million Programme, implemented from 1965 to 1974. Some decentralised participation in economic planning has been implemented across Revolutionary Spain, most notably in Catalonia, during the Spanish Revolution of 1936.
+
+
+=== Relationship with socialism ===
+While socialism is not equivalent to economic planning or to the concept of a planned economy, an influential conception of socialism involves the replacement of capital markets with some form of economic planning in order to achieve ex-ante coordination of the economy. The goal of such an economic system would be to achieve conscious control over the economy by the population, specifically so that the use of the surplus product is controlled by the producers. The specific forms of planning proposed for socialism and their feasibility are subjects of the socialist calculation debate.
+
+
+==== Computational economic planning ====
+
+When the development of computer technology was still its early stages in 1971, the socialist Allende administration of Chile launched Project Cybersyn to install a telex machine in every corporation and organisation in the economy for the communication of economic data between firms and the government. The data was also fed into a computer-simulated economy for forecasting. A control room was built for realtime observation and management of the overall economy. The prototype-stage of the project showed promise when it was used to redirect supplies around a trucker's strike, but after CIA-backed Augusto Pinochet led a coup in 1973 that established a military dictatorship under his rule the program was abolished and Pinochet moved Chile towards a more liberalized market economy.
+In their book Towards a New Socialism (1993), the computer scientist Paul Cockshott from the University of Glasgow and the economist Allin Cottrell from the Wake Forest University claim to demonstrate how a democratically planned economy built on modern computer technology is possible and drives the thesis that it would be both economically more stable than the free-market economies and also morally desirable.
+
+
+==== Cybernetics ====
+The use of computers to coordinate production in an optimal fashion has been variously proposed for socialist economies. The Polish economist Oskar Lange argued that the computer is more efficient than the market process at solving the multitude of simultaneous equations required for allocating economic inputs efficiently (either in terms of physical quantities or monetary prices).The 1970 Chilean distributed decision support system Project Cybersyn was pioneered by Salvador Allende's socialist government in an attempt to move towards a decentralised planned economy with the experimental viable system model of computed organisational structure of autonomous operative units though an algedonic feedback setting and bottom-up participative decision-making in the form of participative democracy by the Cyberfolk component.
+
+
+==== Fictional portrayals ====
+The 1888 novel Looking Backward by Edward Bellamy depicts a fictional planned economy in a United States around the year 2000 which has become a socialist utopia.
+The World State in Aldous Huxley's Brave New World and Airstrip One in George Orwell's Nineteen Eighty-Four are both fictional examples of command economies, albeit with diametrically opposed aims. The former is a consumer economy designed to engender productivity while the latter is a shortage economy designed as an agent of totalitarian social control. Airstrip One is organized by the euphemistically named Ministry of Plenty.
+Other literary portrayals of planned economies were Yevgeny Zamyatin's We which was an influence on Orwell's work. Like Nineteen Eighty-Four, Ayn Rand's dystopian story Anthem was also an artistic portrayal of a command economy that was influenced by We. The difference is that it was a primitivist planned economy as opposed to the advanced technology of We or Brave New World.
+
+
+== Central planning ==
+
+
+=== Advantages ===
+The government can harness land, labour and capital to serve the economic objectives of the state. Consumer demand can be restrained in favor of greater capital investment for economic development in a desired pattern. In international comparisons, state-socialist nations compared favorably with capitalist nations in health indicators such as infant mortality and life expectancy. However, the reality of this, at least in regards to infant mortality, varied depending on whether official Soviet statistics or WHO definitions were used.The state can begin building a heavy industry at once in an underdeveloped economy without waiting years for capital to accumulate through the expansion of light industry and without reliance on external financing. This is what happened in the Soviet Union during the 1930s when the government forced the share of gross national income dedicated to private consumption from eighty percent to fifty percent. As a result of this development, the Soviet Union experienced massive growth in heavy industry, with a concurrent massive contraction of its agricultural sector due to labour shortage, in both relative and absolute terms.
+
+
+=== Disadvantages ===
+
+
+==== Economic instability ====
+Studies of command economies of the Eastern Bloc in the 1950s and 1960s by both American and Eastern European economists found that contrary to the expectations of both groups they showed greater fluctuations in output than market economies during the same period.
+
+
+==== Inefficient resource distribution ====
+Critics of planned economies argue that planners cannot detect consumer preferences, shortages and surpluses with sufficient accuracy and therefore cannot efficiently co-ordinate production (in a market economy, a free price system is intended to serve this purpose). This difficulty was notably written about by economists Ludwig von Mises and Friedrich Hayek, who referred to subtly distinct aspects of the problem as the economic calculation problem and local knowledge problem, respectively.Whereas the former stressed the theoretical underpinnings of a market economy to subjective value theory while attacking the labor theory of value, the latter argued that the only way to satisfy individuals who have a constantly changing hierarchy of needs and are the only ones to possess their particular individual's circumstances is by allowing those with the most knowledge of their needs to have it in their power to use their resources in a competing marketplace to meet the needs of the most consumers most efficiently. This phenomenon is recognized as spontaneous order. Additionally, misallocation of resources would naturally ensue by redirecting capital away from individuals with direct knowledge and circumventing it into markets where a coercive monopoly influences behavior, ignoring market signals. According to Tibor Machan, "[w]ithout a market in which allocations can be made in obedience to the law of supply and demand, it is difficult or impossible to funnel resources with respect to actual human preferences and goals".
+
+
+==== Suppression of economic democracy and self-management ====
+Economist Robin Hahnel, who supports participatory economics, a form of socialist decentralized planned economy, notes that even if central planning overcame its inherent inhibitions of incentives and innovation, it would nevertheless be unable to maximize economic democracy and self-management, which he believes are concepts that are more intellectually coherent, consistent and just than mainstream notions of economic freedom. Furthermore, Hahnel states:
+
+Combined with a more democratic political system, and redone to closer approximate a best case version, centrally planned economies no doubt would have performed better. But they could never have delivered economic self-management, they would always have been slow to innovate as apathy and frustration took their inevitable toll, and they would always have been susceptible to growing inequities and inefficiencies as the effects of differential economic power grew. Under central planning neither planners, managers, nor workers had incentives to promote the social economic interest. Nor did impeding markets for final goods to the planning system enfranchise consumers in meaningful ways. But central planning would have been incompatible with economic democracy even if it had overcome its information and incentive liabilities. And the truth is that it survived as long as it did only because it was propped up by unprecedented totalitarian political power.
+
+
+== Command economy ==
+Planned economies contrast with command economies. A planned economy is "an economic system in which the government controls and regulates production, distribution, prices, etc." whereas a command economy necessarily has substantial public ownership of industry while also having this type of regulation. Most of a command economy is organized in a top-down administrative model by a central authority, where decisions regarding investment and production output requirements are decided upon at the top in the chain of command, with little input from lower levels. Advocates of economic planning have sometimes been staunch critics of these command economies. Leon Trotsky believed that those at the top of the chain of command, regardless of their intellectual capacity, operated without the input and participation of the millions of people who participate in the economy and who understand/respond to local conditions and changes in the economy. Therefore, they would be unable to effectively coordinate all economic activity.Historians have associated planned economies with Marxist–Leninist states and the Soviet economic model. Since the 1980s, it was recognized that the Soviet economic model did not actually constitute a planned economy in that a comprehensive and binding plan did not guide production and investment. The further distinction of an administrative-command system emerged as a more accurate designation for the economic system that existed in the former Soviet Union and Eastern Bloc, highlighting the role of centralized hierarchical decision-making in the absence of popular control over the economy. The possibility of a digital planned economy was explored in Chile between 1971 and 1973 with the development of Project Cybersyn and by Alexander Kharkevich, head of the Department of Technical Physics in Kiev in 1962.While both economic planning and a planned economy can be either authoritarian or democratic and participatory, democratic socialist critics argue that command economies have been authoritarian or undemocratic in practice. Indicative planning is a form of economic planning in market economies that directs the economy through incentive-based methods. Economic planning can be practiced in a decentralized manner through different government authorities. In some predominantly market-oriented and Western mixed economies, the state utilizes economic planning in strategic industries such as the aerospace industry. Mixed economies usually employ macroeconomic planning while micro-economic affairs are left to the market and price system.
+
+
+== Decentralized planning ==
+A decentralized-planned economy, occasionally called horizontally-planned economy due to its horizontalism, is a type of planned economy in which the investment and allocation of consumer and capital goods is explicated accordingly to an economy-wide plan built and operatively coordinated through a distributed network of disparate economic agents or even production units itself. Decentralized planning is usually held in contrast to centralized planning, in particular the Soviet-type economic planning of the Soviet Union's command economy, where economic information is aggregated and used to formulate a plan for production, investment and resource allocation by a single central authority. Decentralized planning can take shape both in the context of a mixed economy as well as in a post-capitalist economic system. This form of economic planning implies some process of democratic and participatory decision-making within the economy and within firms itself in the form of industrial democracy. Computer-based forms of democratic economic planning and coordination between economic enterprises have also been proposed by various computer scientists and radical economists. Proponents present decentralized and participatory economic planning as an alternative to market socialism for a post-capitalist society.Decentralized planning has been a feature of anarchist and other socialist economics. Variations of decentralized planning such as economic democracy, industrial democracy and participatory economics have been promoted by various political groups, most notably anarchists, democratic socialists, guild socialists, libertarian Marxists, libertarian socialists, revolutionary syndicalists and Trotskyists. During the Spanish Revolution, some areas where anarchist and libertarian socialist influence through the CNT and UGT was extensive, particularly rural regions, were run on the basis of decentralized planning resembling the principles laid out by anarcho-syndicalist Diego Abad de Santillan in the book After the Revolution.
+
+
+=== Models ===
+
+
+==== Negotiated coordination ====
+Economist Pat Devine has created a model of decentralized economic planning called "negotiated coordination" which is based upon social ownership of the means of production by those affected by the use of the assets involved, with the allocation of consumer and capital goods made through a participatory form of decision-making by those at the most localized level of production. Moreover, organizations that utilize modularity in their production processes may distribute problem solving and decision making.
+
+
+==== Participatory planning ====
+
+The planning structure of a decentralized planned economy is generally based on a consumers council and producer council (or jointly, a distributive cooperative) which is sometimes called a consumers' cooperative. Producers and consumers, or their representatives, negotiate the quality and quantity of what is to be produced. This structure is central to guild socialism, participatory economics and the economic theories related to anarchism.
+
+
+=== Practice ===
+
+
+==== Kerala ====
+
+Some decentralised participation in economic planning has been implemented in various regions and states in India, most notably in Kerala. Local level planning agencies assess the needs of people who are able to give their direct input through the Gram Sabhas (village-based institutions) and the planners subsequently seek to plan accordingly.
+
+
+==== Revolutionary Catalonia ====
+
+Some decentralised participation in economic planning has been implemented across Revolutionary Spain, most notably in Catalonia, during the Spanish Revolution of 1936.
+
+
+==== Similar concepts in practice ====
+
+
+===== Community participatory planning =====
+
+The United Nations has developed local projects that promote participatory planning on a community level. Members of communities take decisions regarding community development directly.
+
+
+== See also ==
+
+Case studies (Soviet-type economies)Analysis of Soviet-type economic planning
+Eastern Bloc economies
+Economy of Cuba
+Economy of North Korea
+Five-year plans in the Soviet Union
+Five-year plans of China
+OGAS, a plan for creating a computer network to supervise the Soviet economy
+Project Cybersyn, a project for a computer network controlling the economy of Chile under Salvador AllendeCase studies (mixed-market economies)Dirigisme (indicative planning in France)
+Economy of India
+Economy of Singapore
+First Malaysia Plan
+Five-year plans of Argentina
+Five-year plans of South Korea
+
+
+== Notes ==
+
+
+== Further reading ==
+Cox, Robin (2005). "The Economic Calculation Controversy: Unravelling of a Myth". Common Voice (3).
+Damier, Vadim (2012). "The Economy of Freedom".
+Devine, Pat (2010). Democracy and Economic Planning. Polity. ISBN 978-0745634791.
+Ellman, Michael (2014). Socialist Planning (3rd ed.). Cambridge University Press. ISBN 1107427320.
+Grossman, Gregory (1987): "Command economy". The New Palgrave: A Dictionary of Economics. 1. pp. 494–495.
+Landauer, Carl (1947). Theory of National Economic Planning (2nd ed.). Berkeley and Los Angeles, California: University of California Press.
+Mandel, Ernest (1986). In Defence of Socialist Planning. New Left Review (159).
+Myant, Martin; Drahokoupil, Jan (2010), Transition Economies: Political Economy in Russia, Eastern Europe, and Central Asia, Wiley-Blackwell, ISBN 978-0-470-59619-7.
+Nove, Alec (1987). "Planned economy". The New Palgrave: A Dictionary of Economics. 3. pp. 879–885.
+
+
+== External links ==
+"The Myth of the Permanent Arms Economy"
+"The Stalin Model for the Control and Coordination of Enterprises in a Socialist Economy"

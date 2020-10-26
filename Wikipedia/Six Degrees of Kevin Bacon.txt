@@ -1,0 +1,55 @@
+Six Degrees of Kevin Bacon or "Bacon's Law" is a parlor game based on the "six degrees of separation" concept, which posits that any two people on Earth are six or fewer acquaintance links apart. Movie buffs challenge each other to find the shortest path between an arbitrary actor and prolific actor Kevin Bacon. It rests on the assumption that anyone involved in the Hollywood film industry can be linked through their film roles to Bacon within six steps. In 2007, Bacon started a charitable organization called SixDegrees.org. In 2020, Bacon started a podcast called The Last Degree of Kevin Bacon.
+
+
+== History ==
+In a January 1994 interview with Premiere magazine Kevin Bacon mentioned while discussing the film The River Wild that "he had worked with everybody in Hollywood or someone who's worked with them." Following this, a lengthy newsgroup thread which was headed "Kevin Bacon is the Center of the Universe" appeared. Four Albright College students invented the game that became known as "Six Degrees of Kevin Bacon" after watching two movies featuring Bacon back to back, Footloose and The Air Up There. During the second they began to speculate on how many movies Bacon had been in and the number of people with whom he had worked.They wrote a letter to talk show host Jon Stewart, telling him that "Kevin Bacon was the center of the entertainment universe" and explaining the game. They appeared on The Jon Stewart Show and The Howard Stern Show with Bacon to explain the game. Bacon admitted that he initially disliked the game because he believed it was ridiculing him, but he eventually came to enjoy it. The three inventors released a book, Six Degrees of Kevin Bacon (ISBN 9780452278448), with an introduction written by Bacon. A board game based on the concept was released by Endless Games.Bacon appeared in a commercial for the Visa check card that parodied the game. In the commercial, Bacon wants to write a check to buy a book, but the clerk asks for his ID, which he does not have. He leaves and returns with a group of people, then says to the clerk, "Okay, I was in a movie with an extra, Eunice, whose hairdresser, Wayne, attended Sunday school with Father O'Neill, who plays racquetball with Dr. Sanjay, who recently removed the appendix of Kim, who dumped you sophomore year. So you see, we're practically brothers." In a similar vein, Dave Barry, in a column describing the unexpected complications that emerged when he attempted to find out the precise wording of the Lone Ranger's catchphrase, connected the Lone Ranger to Kevin Bacon in the following way: the Lone Ranger was the Green Hornet's great-uncle; the Green Hornet and O. J. Simpson both hung out with people named Kato; Simpson and Robert Wagner co-starred in The Towering Inferno; Wagner and Bacon co-starred in Wild Things.The concept was also presented in an episode of the TV show Mad About You dated November 19, 1996, in which a character expressed the opinion that every actor is only three degrees of separation from Kevin Bacon. Bacon spoofed the concept himself in a cameo he performed for the independent film We Married Margo. Playing himself in a 2003 episode of Will and Grace, Bacon connects himself to Val Kilmer through Tom Cruise and jokes "Hey, that was a short one!". The headline of The Onion, a satirical newspaper, on October 30, 2002, was "Kevin Bacon Linked To Al-Qaeda". Bacon provides the voice-over commentary for the NY Skyride attraction at the Empire State Building in New York City. At several points throughout the commentary, Bacon alludes to his connections to Hollywood stars via other actors with whom he has worked.Turner Classic Movies’ annual 31 Days of Oscar festival sometimes utilizes a promotional tactic called “360 Degrees of Oscar” (based on Bacon’s theoretical game) where TCM takes a significant actor, actress, director, or producer, and evolves its entire festival around them (the first and last films in the festival feature their works).  It has been used as recently as 2020.
+In 2009, Bacon narrated a National Geographic Channel show "The Human Family Tree" – a program which describes the efforts of that organization's Genographic Project to establish the genetic interconnectedness of all humans. In 2011, James Franco made reference to Six Degrees of Kevin Bacon while hosting the 83rd Academy Awards. In the summer of 2012, Google began to offer the ability to find an actor's Bacon number on its main page, by searching for the actor's name preceded by the phrase "bacon number".
+EE began a UK television advertising campaign on November 3, 2012, based on the Six Degrees concept, where Kevin Bacon illustrates his connections and draws attention to how the EE 4G network allows similar connectivity.The most highly connected nodes of the Internet have been referred to as "the 'Kevin Bacons' of the Web," inasmuch as they enable most users to navigate to most sites in 19 clicks or less. In "Weird Al" Yankovic's song "Lame Claim to Fame," one of the lines is, "I know a guy who knows a guy who knows a guy who knows a guy who knows a guy who knows Kevin Bacon." American rapper MC Zappa also makes reference to the game in his 2018 song "Level Up (The Ill Cypher)".
+
+
+== Bacon numbers ==
+The Bacon number of an actor is the number of degrees of separation he or she has from Bacon, as defined by the game. This is an application of the Erdős number concept to the Hollywood movie industry. The higher the Bacon number, the greater the separation from Kevin Bacon the actor is.
+The computation of a Bacon number for actor X is a "shortest path" algorithm, applied to the co-stardom network:
+
+Kevin Bacon himself has a Bacon number of 0.
+Those actors who have worked directly with Kevin Bacon have a Bacon number of 1.
+If the lowest Bacon number of any actor with whom X has appeared in any movie is N, X's Bacon number is N+1.
+
+
+=== Examples ===
+Elvis Presley:
+
+Elvis Presley was in Change of Habit (1969) with Edward Asner
+Edward Asner was in JFK (1991) with Kevin BaconTherefore, Asner has a Bacon number of 1, and Presley (who never appeared in a film with Bacon) has a Bacon number of 2.
+Ian McKellen:
+
+Ian McKellen was in X-Men: Days of Future Past (2014) with Michael Fassbender and James McAvoy
+McAvoy and Fassbender were in X-Men: First Class (2011) with Kevin BaconTherefore, McAvoy and Fassbender have Bacon numbers of 1, and McKellen has a Bacon number of 2.
+Because some people have both a finite Bacon and a finite Erdős number because of acting and publications, there are a rare few who have a finite Erdős–Bacon number, which is defined as the sum of a person's independent Erdős and Bacon numbers.
+
+
+== Center of the Hollywood Universe ==
+While at the University of Virginia, Brett Tjaden created the Oracle of Bacon. A previous version of this computer program used information on some 800,000 people from the Internet Movie Database (IMDb), while the current implementation uses data drawn from Wikipedia. The algorithm calculates "how good a center" an individual IMDb personality is, i.e. a weighted average of the degree of separation of all the people that link to that particular person. The site returns an average personality number, e.g. for Clint Eastwood, it returns an average "Clint Eastwood Number." From there the Oracle site posits "The Center of the Hollywood Universe" as being the person with the lowest average personality number. Kevin Bacon, as it turns out, is not the "Center of the Hollywood Universe" (i.e. the most linkable actor). In fact, Bacon does not even make the top 100 list of average personality numbers. While he is not the most linkable actor, this still signifies being a better center than more than 99% of the people who have ever appeared in a film. Since each actor's average personality number can change with each new film made, the center can and does shift. "Centers" have included Rod Steiger, Donald Sutherland, Eric Roberts, Dennis Hopper, Christopher Lee and Harvey Keitel.
+A 2020 study from Cardiff University also used further measures to determine the center of the movie universe. These included degree centrality, closeness centrality and betweenness centrality, which were implemented using the NetworkX Python Library. The study also looked at movies released in different decades and found that, between 2000 and 2020, the most central actors included Angelina Jolie, Brahmanandam, Samuel L. Jackson, and Ben Kingsley.
+
+
+== Photography book ==
+Inspired by the game, the British photographer Andy Gotts tried to reach Kevin Bacon through photographic links instead of film links.
+Gotts wrote to 300 actors asking to take their pictures, and received permission only from Joss Ackland. Ackland then suggested that Gotts photograph Greta Scacchi, with whom he had appeared in the film White Mischief. Gotts proceeded from there, asking each actor to refer him to one or more friends or colleagues. Eventually, Christian Slater referred him to Bacon. Gotts' photograph of Bacon completed the project, eight years after it began. Gotts published the photos in a book, Degrees (ISBN 0-9546843-6-2), with text by Alan Bates, Pierce Brosnan, and Bacon.
+
+
+== See also ==
+Small-world experiment
+Morphy Number, connections via chess games to Paul Morphy
+Shusaku number, equivalent in the Go world with Honinbo Shusaku
+
+
+== References ==
+
+
+== External links ==
+The Oracle of Bacon computes the Bacon number of any actor or actress from Wikipedia data. A previous implementation used IMDB data.
+Six Degrees of James A. Conrad A how-to demonstration for those wishing to compile their own "degrees of" list by a Hollywood author who is three degrees of Bacon.
+Cinema FreeNet Movie Connector finds links between stars, but can also use directors and producers.
+Filmlovr.com browse the extensive film library to find films to connect via their actors aka determine the Bacon number.
+Six Degrees of Lois Weisberg suggests that Bacon connects to many actors because he acts in many different kinds of roles and films.
