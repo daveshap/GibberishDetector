@@ -29,6 +29,6 @@ if __name__ == '__main__':
         #exit(0)
         
     print(len(result))
-    with open('clean.txt', 'w', encoding='utf-8') as outfile:
+    with open('wikiparsed.txt', 'w', encoding='utf-8') as outfile:
         for line in result:
             outfile.write(line+'\n')
